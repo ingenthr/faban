@@ -84,7 +84,7 @@
             <tr><td VALIGN="CENTER"><br/><a href="/controller/results/targetlist?viewAll=null" target="main">Targets</a></td></tr>
         <%}%>
 <% } %>
-            <tr><td VALIGN="CENTER"><br/><a href="http://faban.sunsource.net/1.0/docs/toc.html" target="_blank">Help</a></td></tr>
+            <tr><td VALIGN="CENTER"><br/><a href="http://faban.org/1.2/docs/index.html" target="_blank">Help</a></td></tr>
             <tr><td VALIGN="CENTER"><br/></td></tr>
             <tr><td VALIGN="CENTER">
                <form name="tagsearch" method="get" target="main" action="controller/results/list">
